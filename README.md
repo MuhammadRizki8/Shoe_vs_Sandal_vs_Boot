@@ -50,3 +50,8 @@ The classification model is trained on a dataset of 15,000 RGB images, equally d
 ```bash
 git clone https://github.com/yourusername/shoe-sandal-boot-classification.git
 cd shoe-sandal-boot-classification
+
+### 2. Install required libraries:
+
+```bash
+pip install -r requirements.txt
